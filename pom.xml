@@ -8,5 +8,6 @@
   <name>test4</name>
   <modules>
     <module>test4Web</module>
+    <module>test4Rest</module>
   </modules>
 </project>
